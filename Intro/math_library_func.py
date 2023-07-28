@@ -28,3 +28,5 @@ Round value  4
 Floor Point Value  2
 Ceiling Point Value  3
 '''
+
+# https://docs.python.org/3/library/math.html (more math library function of python)
