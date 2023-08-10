@@ -1,1 +1,1 @@
-print(min('Minimum value ',(24,43)))
+num = subjects.copy()
