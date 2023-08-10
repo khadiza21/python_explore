@@ -12,3 +12,4 @@ Happy learing .
 
 # backslash character
 print ("Name \t\t Hobbies \nKhadiza \t Reading")
+
