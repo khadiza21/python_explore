@@ -18,9 +18,15 @@ numbers.pop()
 print(numbers)
 numbers.clear()
 print(numbers)
-
+numbers = [12,34,13,54,2,2,6,75,2,6,39]
 # num = numbers.copy()
 num = subjects.copy()
 sub = numbers.copy()
 print(num)
 print(sub)
+position = numbers.index(34)
+count=numbers.count(2)
+print(position)
+print(count)
+
+
